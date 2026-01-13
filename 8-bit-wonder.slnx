@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="8-bit-wonder/8-bit-wonder.vcxproj" Id="3e3d6f57-465a-4986-b477-933fc9a3d4d2" />
+</Solution>
